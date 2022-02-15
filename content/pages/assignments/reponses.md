@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 0feae557-da93-7e11-72b0-0c66516ec82b
 title: Questions
 uid: 9aee9b91-85db-0674-a4da-af2e832a81b8
