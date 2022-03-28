@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 0feae557-da93-7e11-72b0-0c66516ec82b
 ---
@@ -14,14 +15,14 @@ Weekly Response Papers
 
 Each week students will submit a short paper (200 words, due at the start of class) that responds to the week's theme / materials. These will be graded for argument, engagement with the readings, and quality of writing.
 
-[Questions à réponse]({{< baseurl >}}/pages/assignments/reponses).
+{{< resource_link 9aee9b91-85db-0674-a4da-af2e832a81b8 "Questions à réponse" >}}.
 
 Presentation
 ------------
 
 Working in pairs, students will choose a project from the following list of possible topics and dates. The topics will relate to the theme of each week. Presentations will be 10 minutes (no longer!). Presenters must provide enough material / points of departure to animate the next five minutes of class. They will use multimedia materials and make an argument about them. Students are strongly encouraged to speak, not read. Presentations will be graded for their argument, content, use of images, and language skills.
 
-[Sujets De Présentations]({{< baseurl >}}/pages/assignments/sujets-de-presentations).
+{{< resource_link 22981939-b107-8540-2208-1f4871756b26 "Sujets De Présentations" >}}.
 
 Creative Project
 ----------------
