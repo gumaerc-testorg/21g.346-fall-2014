@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a list of possible topics for course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
