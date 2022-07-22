@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides a list of possible topics for course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 0feae557-da93-7e11-72b0-0c66516ec82b
 title: Sujets possibles
 uid: 22981939-b107-8540-2208-1f4871756b26
