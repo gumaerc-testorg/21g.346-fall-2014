@@ -110,7 +110,7 @@ Enrollment limited to 18 for pedagogical purposes. Priority will be given to pre
 Academic Integrity
 ------------------
 
-Students are expected to adhere to {{% resource_link "d2cc1726-8620-4d92-8f79-d9ea5a852f90" "MIT's Academic Integrity" %}} policies. All work (research papers, weekly papers, presentations) must be completed independently, unless otherwise cleared by the instructor. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates or have a classmate look over a draft of their creative project), but they are individually responsible for all written work.
+Students are expected to adhere to [MIT's Academic Integrity](http://integrity.mit.edu/) policies. All work (research papers, weekly papers, presentations) must be completed independently, unless otherwise cleared by the instructor. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates or have a classmate look over a draft of their creative project), but they are individually responsible for all written work.
 
 Violating the Academic Integrity policy in any way (e.g., plagiarism) will result in official Institute sanction. Possible sanctions include receiving a failing grade on the assignment, being assigned a failing grade in the course, having a formal notation of disciplinary action placed on your MIT record, suspension from the Institute, and expulsion from the Institute for very serious cases.
 
